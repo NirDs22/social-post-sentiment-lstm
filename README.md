@@ -7,7 +7,7 @@ Based on Reddit “Am I The Asshole” posts.
 
 ## 🧐 Project Overview
 
-- **Goal:** Classify social media posts by sentiment (positive/negative).
+- **Goal:** Classify social media posts by sentiment (positive/negative = guilty user).
 - **Approach:** Data preprocessing → Embedding → LSTM model → Evaluation.
 - **Result:** Improved accuracy from 50% (baseline) to 67% (LSTM).
 
